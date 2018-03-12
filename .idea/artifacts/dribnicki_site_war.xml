@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dribnicki_site:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dribnicki_site-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dribnicki_site:war exploded" />
+    </root>
+  </artifact>
+</component>
