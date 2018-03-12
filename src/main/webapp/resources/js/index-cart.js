@@ -25,7 +25,7 @@ $(document).ready(function() {
         var itemName = products[item][1],
             itemDescription = products[item][2],
             itemPrice = products[item][4],
-            itemImg = "C:/Users/" + products[item][3],
+            itemImg = "C:/Users/Діана" + products[item][3],
             itemId = products[item][0],
             $template = $($('#productTemplate').html());
 
